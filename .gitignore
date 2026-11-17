@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+.superpowers/
+artifacts/
+.DS_Store

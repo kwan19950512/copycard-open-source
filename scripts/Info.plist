@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>CopyCard</string>
+<key>CFBundleIdentifier</key><string>local.copycard.app</string>
+<key>CFBundleName</key><string>拷卡</string>
+<key>CFBundleDisplayName</key><string>拷卡</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleIconFile</key><string>CopyCard</string>
+<key>CFBundleShortVersionString</key><string>0.2.17</string>
+<key>CFBundleVersion</key><string>19</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSDesktopFolderUsageDescription</key><string>访问您选择的桌面素材目录，用于复制和完整内容校验。</string>
+<key>NSDocumentsFolderUsageDescription</key><string>访问您选择的文稿素材目录，用于复制和完整内容校验。</string>
+<key>NSDownloadsFolderUsageDescription</key><string>访问您选择的下载目录，用于复制和完整内容校验。</string>
+<key>NSRemovableVolumesUsageDescription</key><string>读取您选择的内存卡并将素材复制到目标磁盘，完成后进行内容校验。</string>
+<key>NSNetworkVolumesUsageDescription</key><string>访问您选择的网络磁盘以复制和校验文件。</string>
+</dict></plist>
